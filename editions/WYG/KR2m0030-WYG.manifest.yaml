@@ -1,0 +1,102 @@
+canonical_identifier: bkk:krp/KR2m0030/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2m0030/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 明臣諡考
+  date: '2015-08-24 22:51:42.991808'
+  source:
+    repository: kanripo
+    path: KR2m0030
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2m0030_000-WYG.yaml, hash: 'sha256:c0933cdd856578cd82ff54dc01af3322d16dde968a1641326c4b0b04bd8d6b63'}
+  - {seq: 1, filename: KR2m0030_001-WYG.yaml, hash: 'sha256:7f98ac852ff7a606ca9521f7dd973c0b48487750cf90bc554d00b9d305458090'}
+  - {seq: 2, filename: KR2m0030_002-WYG.yaml, hash: 'sha256:e9ac72233d89990fc8d5a87d04f0e01d408687bcd6b33e4d1d2d9d0e611917b7'}
+  - {seq: 3, filename: KR2m0030_003-WYG.yaml, hash: 'sha256:77aa7d1968e18bedec9777fd046573fb2b021301a9c2d9b2ca98704c84725de0'}
+  - {seq: 4, filename: KR2m0030_004-WYG.yaml, hash: 'sha256:c407136dd71da5e786f204d54465ad081d116f868a7e806dbccc87eb0cd52506'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2m0030_000-WYG.markers.yaml, hash: 'sha256:11a395de29dded980ed8412994d423a163265cd4a209703f81b2b3c1b98d4e12'}
+  - {seq: 1, role: markers, filename: assets/KR2m0030_001-WYG.markers.yaml, hash: 'sha256:3587256b29bd2d5ef46285b097fedfbcff67db8c7536c75ab1c4f2cfb0ca1baa'}
+  - {seq: 2, role: markers, filename: assets/KR2m0030_002-WYG.markers.yaml, hash: 'sha256:4e98f287dc00ba8f80d88a5878eabfe5f3596c9f47da69389c90bf1d77b53fbe'}
+  - {seq: 3, role: markers, filename: assets/KR2m0030_003-WYG.markers.yaml, hash: 'sha256:3b7e66f5758a4f59bd547c86d989fe9074c9e27c9afbaad3643cf5dd7f2c6fa2'}
+  - {seq: 4, role: markers, filename: assets/KR2m0030_004-WYG.markers.yaml, hash: 'sha256:95dab663e2692293b6a1e3ae929fd6464a85284c2fc28e85211e067918a6488e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2m0030_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 361
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2m0030_WYG_000-3a
+    span:
+    - body
+    - 361
+    - 950
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2m0030_WYG_000-5a
+    span:
+    - body
+    - 950
+    - 2182
+  label: 通用謚法釋義
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2m0030_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 11441
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2m0030_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 7681
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2m0030_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 1782
+  label: 訂誤
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2m0030_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 551
+  label: 後序
+  type: section
+  level: 1
+hash: sha256:433bef0bdd83ba0d433bd62c052273e1532dd28010486cce345b36d959e0561a
